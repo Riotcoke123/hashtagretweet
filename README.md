@@ -3,11 +3,15 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-![images](https://github.com/user-attachments/assets/010a92d3-d097-45a5-85f2-76490b3eec0c)
+</head>
+<body>
 
 <header>
   <h1>Hashtag Retweet</h1>
   <p>Automatically retweet tweets with specific hashtags using Node.js</p>
+
+  <!-- Corrected Image Embed -->
+  <img src="https://github.com/user-attachments/assets/010a92d3-d097-45a5-85f2-76490b3eec0c" alt="Hashtag Retweet" style="max-width: 100%; height: auto;"/>
 </header>
 
 <section>
