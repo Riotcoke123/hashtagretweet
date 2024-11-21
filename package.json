@@ -1,1 +1,29 @@
+{
+  "name": "hashtag-retweet",
+  "version": "1.0.0",
+  "description": "A simple Node.js script to retweet tweets with specific hashtags using the Twitter API.",
+  "main": "retweet.js",
+  "scripts": {
+    "start": "node retweet.js"
+  },
+  "dependencies": {
+    "twitter-api-v2": "^1.11.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "twitter",
+    "retweet",
+    "node.js",
+    "hashtags"
+  ],
+  "author": "riotcoke",
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Riotcoke123/hashtagretweet.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Riotcoke123/hashtagretweet/issues"
+  }
+}
 
